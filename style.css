@@ -1,0 +1,12 @@
+body{
+    justify-content: center;
+    padding: 200px;;
+}
+#button{
+    background-color: aliceblue;
+    position: relative;
+    top: 300px;
+    padding:100px;
+
+}
+
